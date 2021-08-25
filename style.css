@@ -1,0 +1,16 @@
+#bran{
+    font-size: 2rem;
+}
+.nav-link:hover{
+   border-bottom:2px solid orange;
+   color: #f7ddf7!important;
+}
+.nav-link{
+    margin-right: 1rem;
+}
+.mainpart{
+    padding-top: 5px;
+}
+.dropdown-item:hover{
+   color:orangered!important; 
+}
